@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @matheustcarvalho
-- 👀 I’m interested in PHP, Javascript
-- 🌱 I’m currently learning NodeJS
 - 📫 How to reach me : srmatheustc@gmail.com
 
 <!---
